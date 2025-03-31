@@ -15,8 +15,8 @@
 ## API_KEY写入环境变量   
 仅以mac为例，windows网上教程很多  
 * 打开终端(Term)
-* 运行`echo 'export DEEPSEEK_APIKEY="sk-xxxxxxxxxxx"
-export QWEN_APIKEY="sk-xxxxxxxxxxx"' >> ~/.zshrc`
+* 运行`echo 'export DEEPSEEK_APIKEY="sk-xxxxxxxxxxx"' >> ~/.zshrc`
+* 运行`echo 'export QWEN_APIKEY="sk-xxxxxxxxxxx"' >> ~/.zshrc`
 * 运行`source ~/.zshrc`
 * DEEPSEEK_APIKEY为deepseek的key，QWEN_APIKEY为qwen的key
 ## 安装python3及依赖   
