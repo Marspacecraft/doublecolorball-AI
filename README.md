@@ -1,5 +1,5 @@
 # doublecolorball-AI
- deepseek和qwenAI模型预测双色球
+ deepseek和qwen AI模型预测双色球
 
 
  # 说明   
@@ -26,6 +26,7 @@ export QWEN_APIKEY="sk-xxxxxxxxxxx"' >> ~/.zshrc`
 * 安装openai包`pip install openai`
 
 ## 运行  
-`python3 SSQ_AI.py`
+* `python3 SSQ_AI.py`
+* ![](https://github.com/Marspacecraft/doublecolorball-AI/blob/main/pic.png)    
 
 
